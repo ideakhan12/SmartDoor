@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "873924617768",
+    "firebase_url": "https://application-403e9.firebaseio.com",
+    "project_id": "application-403e9",
+    "storage_bucket": "application-403e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873924617768:android:76feef1fc7449fae",
+        "android_client_info": {
+          "package_name": "com.example.ideak.smartdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873924617768-mjk8f2ql8tc36le7nmedij1qb7q39t8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxNe2G7CZZF8_qptQhmREPHyvZE3p1Myc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
